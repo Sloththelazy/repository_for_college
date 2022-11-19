@@ -3,5 +3,4 @@ This is repository to store all my college assignments
 This repository starts from assignment 4
 
 
-Assignment       Date                 Topic
-   4           20/Nov/22.         Control Statements
+Assignment: 4       Date: 20/Nov/22                Topic: Control Statements
